@@ -1,6 +1,6 @@
 #Red-Sign-Traffic-Detection
 
-In this project, the Tensorflow Object Detection API has been used to detect and classify the red signs on the German Traffic Sign Dtection Benchmark (GTSDB) dataset.
+In this project, the Tensorflow Object Detection API has been used to detect and classify the red signs on the German Traffic Sign Detection Benchmark (GTSDB) dataset.
 
 Object Detection API
 https://github.com/tensorflow/models/tree/master/research/object_detection
